@@ -21,7 +21,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/smart-irrigation-arduino.git
+git clone https://github.com/CyberTycoon/Smart-Irrigation-system-with-Arduino.git
 cd smart-irrigation-arduino
 Upload the Code:
 
